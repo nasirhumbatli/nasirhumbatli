@@ -2,7 +2,6 @@
 
 **Backend Developer | Skilled in Laravel | Clean Code Advocate**
 
-🌍 Baku, Azerbaijan  
 📧 [nasir.humbatli@gmail.com](mailto:nasir.humbatli@gmail.com)  
 
 
